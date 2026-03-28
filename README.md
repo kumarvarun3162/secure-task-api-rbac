@@ -215,12 +215,6 @@ Use:
 
 ---
 
-# 📸 Screenshots
-
-(Add screenshots of your UI here before submission)
-
----
-
 # 👨‍💻 Author
 
 **Varun Kumar**
